@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي تعال الشوق يناديك
+> في ضوء القمر عيني تضحك ليك
+> أشعلت النار في قلبي وعينيك
+> كل دقات الحب تنبض بيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
